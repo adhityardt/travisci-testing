@@ -7,7 +7,7 @@ class Calculator {
   }
 
   add(addNumber) {
-    this.number = this.number + addNumber;
+    this.number = this.number + addNumber + 70;
     return this;
   }
 
